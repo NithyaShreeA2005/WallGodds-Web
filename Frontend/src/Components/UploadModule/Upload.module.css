@@ -46,9 +46,7 @@ input:active {
     resize: none;
 }
 
-.fieldwallpaper .input.description {
-    height: 95px;
-}
+
 .row {
     display: flex;
     justify-content: space-between;
